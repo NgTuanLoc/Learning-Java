@@ -1,4 +1,4 @@
-package Fundamentals_1;
+package Fundamentals;
 
 //Speed Converter
 //
